@@ -249,7 +249,7 @@ Neotro.addCommand({ pattern: 'alexai ?(.*)', desc: 'ai ALEXA chat bot on off com
                     ['FULL_ALEXA']: 'true'
                 } 
             });
-            await message.client.sendMessage(message.jid, '*ALEXA working As  chat bot*', MessageType.text)
+            await message.client.sendMessage(message.jid, '*DUG working As  chat bot*', MessageType.text)
         }
     }
     else if (match[1] == 'off') {
