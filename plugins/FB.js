@@ -1,5 +1,5 @@
 //Api එක උස්සන එකාගෙ මුලු පව්ලම හෙන හතක් වැදිලා 
-//මකබෑවිලාම යන්න ඕනෙ..!!!! eeeew!
+//මකබෑවිලාම යන්න ඕනෙ..!!!! eeeew! Mmm paw bn teenu 😆
 
 const amazone = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
@@ -11,9 +11,9 @@ const Language = require('../language');
 const Lang = Language.getString('amazone');
 const YTV_DESC = "Facebook Video Downloader V2 ."
 const YT_NEED = "*need word!.*"
-const DWLOAD_VID = "*🎭Downloading Your Video...*"
-const YTV_UP = "*🚀Uploading Your Video...*"
-const NO_RESULT = "*🌀can't Find Anything...*"
+const DWLOAD_VID = "*♦️Downloading Your Video...*"
+const YTV_UP = "*🧿Uploading Your Video...*"
+const NO_RESULT = "*✳️can't Find Anything...*"
 const tk = Config.WORKTYPE == 'public' ? false : true
 
     amazone.addCommand({ pattern: 'fb ?(.*)', fromMe: tk, deleteCommand: false, desc: Lang.MP4,  deleteCommand: false}, async (message, match) => {
