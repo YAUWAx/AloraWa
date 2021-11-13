@@ -30,13 +30,13 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  *│ᴛʏᴘᴇ: .`+Config.PANEL_COMMAND+` get full Command list*
  ├─────────●●►
- *│🌼HEY,*  `+wish+`
+ *│🥀HEY,*  `+wish+`
  *│👤Name:* `+Config.BOT_NAME+`
- *│💎Role:* Developer
+ *│♦️Role:* Developer
  *│Time⌚:* `+time+`
  *│📡Server:* Digital Ocean
  *│📦Frameworks:* Nodejs
- *│☬Working As*
+ *│🎴Working As*
  *│🛡️ `+Config.WORKTYPE+`*
  │ _©️ᴀᴍᴀᴢᴏɴᴇ-ᴅᴜɢ_
  ╰──────────●●►
@@ -45,23 +45,23 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *│🛡️BOT COMMANDS*
  │   ───────
  │
- │► .`+Config.PANEL_COMMAND+` [All command list]
- │► .alive [Check bot status]
- │► .bot [chat with bot]
- │► .Admin [ for owner ]
- │► .version [check Version 
- │►.update [check Update]
- │►.update now [get update ]
- │►.restart 
+ │✳️ .`+Config.PANEL_COMMAND+` [All command list]
+ │✳️ .alive [Check bot status]
+ │✳️ .bot [chat with bot]
+ │✳️ .Admin [ for owner ]
+ │✳️ .version [check Version 
+ │✳️.update [check Update]
+ │✳️.update now [get update ]
+ │✳️.restart 
  ╰───────────●●►
 
  ╭───────────●●►
  *│🧜‍♀STICKER COMMANDS*
  │      ───────
- │► .attp [text ]
- │► .sticker
- │► .photo
- │► .listp
+ │✴️ .attp [text ]
+ │✴️ .sticker
+ │✴️ .photo
+ │✴️ .listp
  ╰────────────●●►
 
  ╭────────────●●►
@@ -85,19 +85,19 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╭────────────●●►
  *│💰DOWNLOAD COMMANDS*
  │      ────────
- │► .video [ Yt Link]
- │►.mp4    [Name]
- │►.audio  [yt link ]
- │► .download  [status download]
- │►.song  [ song name ]
- │►.dcsong [ song name ]
- │►.img [ name ]
- │►.fb  link ]
- │►.tiktok [ link ]
- │►.vinsta  [ Insta Video ]
- │►.pinsta [ Insta Post ]
- │►.twt [twitter video Link]
- │►.mediafire
+ │🧿 .video [ Yt Link]
+ │🧿.mp4    [Name]
+ │🧿.audio  [yt link ]
+ │🧿 .download  [status download]
+ │🧿.song  [ song name ]
+ │🧿.dcsong [ song name ]
+ │🧿.img [ name ]
+ │🧿.fb  link ]
+ │🧿.tiktok [ link ]
+ │🧿.vinsta  [ Insta Video ]
+ │🧿.pinsta [ Insta Post ]
+ │🧿.twt [twitter video Link]
+ │🧿.mediafire
  ╰────────────●●►
 
  ╭────────────●●►
@@ -136,7 +136,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╭───────────●●►
  *│🎨MEDIA TOOLS*
  │      ───────
- │► .axmedia [25+ tools]
  │► .tblend
  │►.ocr [Read Text]
  │►.mp3 [Video To mp3]
