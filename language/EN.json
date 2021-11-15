@@ -237,7 +237,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```👩‍🦰Amazone Creating Sticker```"
+            "DOWNLOADING": "```♦️DUG Creating Sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -268,9 +268,9 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating..🧞‍♂️",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*👩‍🦰Amazone Alexa Updated!*",
-            "UPDATED_LOCAL": "*👩‍🦰Amazone Alexa Updated!*",
-            "AFTER_UPDATE": "*👩‍🦰Amazone Alexa Restarting !*",
+            "UPDATED": "*♦️Amazone DUG Updated!*",
+            "UPDATED_LOCAL": "*♦️Amazone DUG Updated!*",
+            "AFTER_UPDATE": "*♦️Amazone DUG Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -613,7 +613,7 @@
             "TIKTOK": "Download Tik tok video.",
 	    "FBDOWN": "Download Facebook Video.",
 	    "PTDOWN": "Download Pinterest Images.\n*Ex:* .pindown https://www.pinterest.com/pin/624522673326224603/",
-            "NOT_AVAILABLE": "👩‍🦰Amazone chat bot Disabled."
+            "NOT_AVAILABLE": "♦️Amazone chat bot Disabled."
         },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
