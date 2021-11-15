@@ -320,7 +320,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                    await conn.sendMessage(conn.user.jid, '*🧚‍♂QUEEN AMAZONE As Public! 👩‍🦰*\n\n_මෙය ඔබගේ LOG අංකයයි..මෙහි විධාන භාවිතයෙන් වළකින්න._\n_ඔබට පුලුවන් වෙනත් ඕනෑම කතා බහක විධාන භාවිතා කිරීමට.. :)_\n\n*ඔබේ Bot Public ආකාරයට ක්‍රියා කරයි..එය වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Bot ක්‍රියාත්මක වන්නෙ කෙසේද හා විධාන ලැයිස්තු ලබා ගැනීමට⚜ .basichelp විධානය භාවිතා කරන්න*\n\nSupport Group : https://t.me/Amazone_Neotrox_Support\n*🧚‍♂QUEEN AMAZONE භාවිතා කිරීම සම්බන්ධයෙන් ස්තූතියි 💌*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*♦️AMAZONE DUG As Public! 🐶*\n\n_මෙය ඔබගේ LOG අංකයයි..මෙහි විධාන භාවිතයෙන් වළකින්න._\n_ඔබට පුලුවන් වෙනත් ඕනෑම කතා බහක විධාන භාවිතා කිරීමට.. :)_\n\n*ඔබේ Bot Public ආකාරයට ක්‍රියා කරයි..එය වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Bot ක්‍රියාත්මක වන්නෙ කෙසේද හා විධාන ලැයිස්තු ලබා ගැනීමට⚜ .basichelp විධානය භාවිතා කරන්න*\n\n*♦️AMAZONE DUG භාවිතා කිරීම සම්බන්ධයෙන් ස්තූතියි 🧿*', MessageType.text);
                 }
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -346,7 +346,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                    await conn.sendMessage(conn.user.jid, '*🧚‍♂QUEEN AMAZONE Working As public!👩‍🦰*\n\nPlease do not try any commands here. This is your log number._\n_You can try commands anywhere else :)_\n\n_Type_ *.basichelp* _to get your full Help list and Basic Commands._\n\n_Your bot in Public Mode. To change, use_ ```.setvar WORK_TYPE:private``` _command._\n\n*Thanks for using 🧚‍♂QUEEN AMAZONE💌*\n', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*♦️AMAZONE DUG Working As public!🐶*\n\nPlease do not try any commands here. This is your log number._\n_You can try commands anywhere else :)_\n\n_Type_ *.basichelp* _to get your full Help list and Basic Commands._\n\n_Your bot in Public Mode. To change, use_ ```.setvar WORK_TYPE:private``` _command._\n\n*Thanks for using ♦️AMAZONE DUG🧿*\n', MessageType.text);
                 }               
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -375,7 +375,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                    await conn.sendMessage(conn.user.jid, '*🧚‍♂QUEEN AMAZONE As private! 👩‍🦰*\n\n_මෙය ඔබගේ LOG අංකයයි..මෙහි විධාන භාවිතයෙන් වළකින්න._\n_ඔබට පුලුවන් වෙනත් ඕනෑම කතා බහක විධාන භාවිතා කිරීමට.. :)_\n\n*ඔබේ Bot Private ආකාරයට ක්‍රියා කරයි..එය වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.*\n\n*Bot ක්‍රියාත්මක වන්නෙ කෙසේද හා විධාන ලැයිස්තු ලබා ගැනීමට⚜ .basichelp විධානය භාවිතා කරන්න*\n\nSupport Group : _https://t.me/Amazone_Neotrox_Support_\n*🧚‍♂QUEEN AMAZONE භාවිතා කිරීම සම්බන්ධයෙන් ස්තූතියි 💌*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*♦️AMAZONE DUG As private! 🐶*\n\n_මෙය ඔබගේ LOG අංකයයි..මෙහි විධාන භාවිතයෙන් වළකින්න._\n_ඔබට පුලුවන් වෙනත් ඕනෑම කතා බහක විධාන භාවිතා කිරීමට.. :)_\n\n*ඔබේ Bot Private ආකාරයට ක්‍රියා කරයි..එය වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.*\n\n*Bot ක්‍රියාත්මක වන්නෙ කෙසේද හා විධාන ලැයිස්තු ලබා ගැනීමට⚜ .basichelp විධානය භාවිතා කරන්න*\n\n*♦️AMAZONE DUG භාවිතා කිරීම සම්බන්ධයෙන් ස්තූතියි 🧿*', MessageType.text);
                 }
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -639,18 +639,18 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'true') return;
                             if (config.LANG == 'SI' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [🛡️Queen-Amazone] --*' + 
-                                    '\n*👩‍🦰Queen-Amazone නිසි ලෙස ක්‍රියා කරයි!*'+
+                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [♦️DUG♦️] --*' + 
+                                    '\n*🐶Amazone Dug නිසි ලෙස ක්‍රියා කරයි!*'+
                                     '\n_මෙය ඔබගේ LOG අංකයයි! _මෙහි විධාන භාවිතයෙන් වළකින්න_' +
                                     '\n_ඔබට පුලුවන් වෙනත් ඕනෑම කතාබහක විධාන භාවිතා කරන්න._' +
                                     '\n_වැඩි දුර උදව් සදහා සහය සමූහයට එකතු වෙන්න._' +
-                                    '\n_සහය සමූහ: https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX 🛡️ https://t.me/Amazone_Neotrox_Support_\n\n' +
+                                    '\n_chat.whatsapp.com 🛡️ \n\n' +
                                     '*🚫ප්‍රධාන දෝෂය:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false});
 
                                 if (error.message.includes('URL')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚜ 🙇දෝශ විශ්ලේෂනය [👩‍🦰Queen-Amazone] ⚜*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚜ 🙇දෝශ විශ්ලේෂනය [🐶DUG] ⚜*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Only Absolutely URLs Supported_' +
                                         '\n*🤖හේතුව:* _LOG අංකය තුළ මාධ්‍ය මෙවලම් (nmedia, sticker..) භාවිතය._' +
                                         '\n*🧚‍♂️විසඳුම:* _LOG අංකය හැර ඕනෑම චැට් එකකදී ඔබට විධානයන් භාවිතා කළ හැකිය._'
@@ -658,8 +658,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('SSL')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _SQL Database Error_' +
                                         '\n*🤖හේතුව:* _Database\'දෝශයකි._ ' +
                                         '\n*🧚‍♂️විසඳුම:* _නිශ්චිත විසදුමක් නොමැත..ඔබට හැකියි නැවත යෙදුම්ගත කිරීමට._'
@@ -667,8 +667,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('split')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය.!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය.!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Split of Undefined_' +
                                         '\n*🤖හේතුව:* _කණ්ඩායම් admin භාවිතා කළ හැකි විධානයන් සමහර විට split ක්‍රියාවලිය නොදකි._ ' +
                                         '\n*🧚‍♂️විසඳුම:* _Restart කිරීම ප්‍රමාණවත් වේ._'
@@ -676,8 +676,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );                               
                                 }
                                 else if (error.message.includes('Ookla')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Ookla Server Connection_' +
                                         '\n*🤖හේතුව:* _සේවාදායකයට වේගවත්ම දත්ත සම්ප්‍රේෂණය කළ නොහැක._' +
                                         '\n*🧚‍♂️විසඳුම:* _ඔබ එය තවත් වරක් භාවිතා කළහොත් ගැටළුව විසඳනු ඇත.._'
@@ -685,8 +685,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('params')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Requested Audio Params_' +
                                         '\n*🤖හේතුව:* _හෝඩියේ පිටත TTS විධානය භාවිතා කිරීම._' +
                                         '\n*🧚‍♂️විසඳුම:* _ඔබ අකුරු රාමුව තුළ ඇති විධානය භාවිතා කළහොත් ගැටළුව විසඳනු ඇත._'
@@ -694,8 +694,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('unlink')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _No Such File or Directory_' +
                                         '\n*🤖හේතුව:* _Pluginයේ වැරදි කේතීකරණය._' +
                                         '\n*🧚‍♂️විසඳුම:* _කරුණාකර ඔබේ plugin කේත පරීක්‍ෂා කරන්න._'
@@ -703,8 +703,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('404')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Error 404 HTTPS_' +
                                         '\n*🤖හේතුව:* _Heroku plugins යටතේ ඇති විධානයන් භාවිතා කිරීම හේතුවෙන් සේවාදායකයා සමඟ සන්නිවේදනය කිරීමට නොහැකි වීම._' +
                                         '\n*🧚‍♂️විසඳුම:* _ටික වේලාවක් බලා නැවත උත්සාහ කරන්න. ඔබ තවමත් දෝෂයක් ලබා ගන්නේ නම්, වෙබ් අඩවිය මඟින් යලි ආරම්භ කිරීම සිදු කරන්න._'
@@ -712,8 +712,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('reply.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Reply Delete Function_' +
                                         '\n*🤖හේතුව:* _IMG හෝ Wiki විධානයන් භාවිතා කිරීම. (Official වට්ස්ඇප් භාවිතය.)_' +
                                         '\n*🧚‍♂️විසඳුම:* _මෙම දෝෂය සඳහා විසඳුමක් නොමැත. එය fatal error නොවේ._'
@@ -721,8 +721,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('load.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Reply Delete Function_' +
                                         '\n*🤖හේතුව:* _IMG හෝ Wiki විධානයන් භාවිතා කිරීම. (Official වට්ස්ඇප් භාවිතය.)_' +
                                         '\n*🧚‍♂️විසඳුම:* _මෙම දෝෂය සඳහා විසඳුමක් නොමැත. එය fatal error නොවේ.'
@@ -730,8 +730,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('400')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Bailyes Action Error_ ' +
                                         '\n*🤖හේතුව:* _නිශ්චිත හේතුව නොදනී. විකල්ප එකකට වඩා මෙම දෝෂය ඇති වීමට හේතු විය හැක._' +
                                         '\n*🧚‍♂️විසඳුම:* _ඔබ එය නැවත භාවිතා කළහොත් එය වැඩිදියුණු විය හැකිය. දෝෂය දිගටම පැවතුනහොත්, ඔබට restart කිරීමට උත්සාහ කළ හැකිය._'
@@ -739,8 +739,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('decode')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Cannot Decode Text or Media_' +
                                         '\n*🤖හේතුව:* _වැරදි ලෙස භාවිතා කිරීම._' +
                                         '\n*🧚‍♂️විසඳුම:* _විධාන ලැයිස්තුවෙ විස්තර ලියා ඇති පරිදි කරුණාකර විධානයන් භාවිතා කරන්න._'
@@ -748,8 +748,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('unescaped')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Word Character Usage_' +
                                         '\n*🤖හේතුව:* _English හෝඩියේ පිටත TTP, ATTP වැනි විධානයන් භාවිතා කිරීම._' +
                                         '\n*🧚‍♂️විසඳුම:* _ඔබ English හෝඩියේ විධානය භාවිතා කළහොත් ගැටළුව විසඳනු ඇත._'
@@ -757,8 +757,8 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                     );
                                 }
                                 else if (error.message.includes('conversation')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [👩‍🦰Queen-Amazone] ⚕️*' + 
-                                        '\n========== ``` 🧚‍♂දෝශ විශ්ලේෂනය!``` ==========' +
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ◁දෝශ වාර්තාව▷ [🐶DUG] ⚕️*' + 
+                                        '\n========== ``` ♦️දෝශ විශ්ලේෂනය!``` ==========' +
                                         '\n\n*🚫ප්‍රධාන දෝෂය:* _Deleting Plugin_' +
                                         '\n*🤖හේතුව:* ප්ලගීනයෙ නම වැරදියි.._' +
                                         '\n*🧚‍♂️විසඳුම:* _ප්ලගීනයෙ නමට ඉදිරියෙන් මෙය හොදන්න_ *__* _නැතහොත් නමෙ අගට_ ```?(.*) / $``` _මේවා යොදන්න._'
@@ -767,7 +767,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🙇🏻 කණගාටුයි AUTO ERROR පද්ධතියට හදුනාගත නොහැකියි! 🙇🏻*' +
-                                        '\n_ඔබට පුලුවන් වැඩිදුර උදව් සදහා සහය සමූහයට ලිවීමට..🛡️ https://t.me/Amazone_Neotrox_Support_'
+                                        '\n_ඔබට පුලුවන් වැඩිදුර උදව් සදහා සහය සමූහයට ලිවීමට..🛡️ https://t.me/_'
                                         , MessageType.text
                                     );
                                 }
@@ -784,7 +784,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 );
                                 if (error.message.includes('URL')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Only Absolutely URLs Supported_' +
                                         '\n*Reason:* _The usage of media tools (nmedia, sticker..) in the LOG number._' +
                                         '\n*Solution:* _You can use commands in any chat, except the LOG number._'
@@ -793,7 +793,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('conversation')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Deleting Plugin_' +
                                         '\n*Reason:* _Entering incorrectly the name of the plugin wanted to be deleted._' +
                                         '\n*Solution:* _Please try without adding_ *__* _to the plugin you want to delete. If you still get an error, try to add like_ ```?(.*) / $``` _to the end of the name._ '
@@ -802,7 +802,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('split')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🛡️ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Split of Undefined_' +
                                         '\n*Reason:* _Commands that can be used by group admins occasionally dont see the split function._ ' +
                                         '\n*Solution:* _Restarting will be enough._'
@@ -811,7 +811,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('SSL')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _SQL Database Error_' +
                                         '\n*Reason:* _Database corruption._ ' +
                                         '\n*Solution:* _There is no known solution. You can try reinstalling it._'
@@ -820,7 +820,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('Ookla')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Ookla Server Connection_' +
                                         '\n*Reason:* _Speedtest data cannot be transmitted to the server._' +
                                         '\n*Solution:* _If you use it one more time the problem will be solved._'
@@ -829,7 +829,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('params')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Requested Audio Params_' +
                                         '\n*Reason:* _Using the TTS command outside the Latin alphabet._' +
                                         '\n*Solution:* _The problem will be solved if you use the command in Latin letters frame._'
@@ -838,7 +838,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('unlink')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS``` ==========' +
                                         '\n\n*Main Error:* _No Such File or Directory_' +
                                         '\n*Reason:* _Incorrect coding of the plugin._' +
                                         '\n*Solution:* _Please check the your plugin codes._'
@@ -847,7 +847,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('404')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Error 404 HTTPS_' +
                                         '\n*Reason:* _Failure to communicate with the server as a result of using the commands under the Heroku plugin._' +
                                         '\n*Solution:* _Wait a while and try again. If you still get the error, perform the transaction on the website.._'
@@ -856,7 +856,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('reply.delete')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🛡️ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
                                         '\n*Solution:* _There is no solution for this error. It is not a fatal error._'
@@ -865,7 +865,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('load.delete')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
                                         '\n*Solution:* _There is no solution for this error. It is not a fatal error._'
@@ -874,7 +874,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('400')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Bailyes Action Error_ ' +
                                         '\n*Reason:* _The exact reason is unknown. More than one option may have triggered this error._' +
                                         '\n*Solution:* _If you use it again, it may improve. If the error continues, you can try to restart._'
@@ -883,7 +883,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('decode')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Cannot Decode Text or Media_' +
                                         '\n*Reason:* _Incorrect use of the plug._' +
                                         '\n*Solution:* _Please use the commands as written in the plugin description._'
@@ -892,7 +892,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else if (error.message.includes('unescaped')) {
                                     return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ ' + awsh.DEVELOPER_TAG +' ] ⚕️*' + 
-                                        '\n========== ```🧚‍♂ERROR ANALYSIS!``` ==========' +
+                                        '\n========== ```♦️ERROR ANALYSIS!``` ==========' +
                                         '\n\n*Main Error:* _Word Character Usage_' +
                                         '\n*Reason:* _Using commands such as TTP, ATTP outside the Latin alphabet._' +
                                         '\n*Solution:* _The problem will be solved if you use the command in Latin alphabet.._'
@@ -901,7 +901,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🧚‍♂Sorry, I Couldnt Read This Error!🙇🏻*' +
-                                        '\n_You can write to our support groups for more help...🛡️ https://t.me/Amazone_Neotrox_Support_'
+                                        '\n_You can write to our support groups for more help...🛡️ '
                                         , MessageType.text
                                     );
                                }
