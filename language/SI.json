@@ -226,7 +226,7 @@
         "sticker": {
             "STICKER_DESC": "*පිළිතුරු ලබා දෙන ඡායාරූපය හෝ වීඩියෝව ස්ටිකර බවට පරිවර්තනය කරයි.*",
             "NEED_REPLY": "*ඡායාරූපයකට හෝ වීඩියෝවකට පිළිතුරු දෙන්න.!*",
-            "DOWNLOADING": "```👩‍🦰Amazone Creating Sticker```"
+            "DOWNLOADING": "```♦️Amazone Dug Creating Sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "*බොට් ක්‍රියාකරනවද නැද්ද බව පෙන්වයි.*",
@@ -253,13 +253,13 @@
         "updater": {
             "UPDATER_DESC": "*නව යතාවත්කාලින කිරීම් පරීක්ෂා කිරීමට*.",
             "UPDATE": "*ඔබේ Bot සම්පූර්ණයෙන් යතාවත්කාලිනයි.!*",
-            "NEW_UPDATE": "*නව යතාවත්කාලින කිරීමක් ඇත!*\n\n👩‍🦰වෙනස්වීම්:\n```",
+            "NEW_UPDATE": "*නව යතාවත්කාලින කිරීමක් ඇත!*\n\n♦️වෙනස්වීම්:\n```",
             "UPDATE_NOW_DESC": "යතාවත්කාලින කිරීම් ලබාගනියි..",
-            "UPDATING": "Updating..👩‍🦰",
+            "UPDATING": "Updating..♦️",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*👩‍🦰Amazone Alexa Updated!*",
-            "UPDATED_LOCAL": "*👩‍🦰Amazone Alexa Updated!*",
-            "AFTER_UPDATE": "*👩‍🦰Amazone Alexa Restarting !*",
+            "UPDATED": "*♦️Amazone Dug Updated!*",
+            "UPDATED_LOCAL": "*♦️Amazone Dug Updated!*",
+            "AFTER_UPDATE": "*♦️Amazone Dug Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -600,7 +600,7 @@
             "TIKTOK": "ටික් ටොක් වීඩියො බාගත කරයි.",
 	    "FBDOWN": "Facebook වීඩියො බාගත කරයි.",
 	    "PTDOWN": "Pinterest පින්තුර බාගත කරයි.\n*උදා:* .pindown https://www.pinterest.com/pin/624522673326224603/",
-            "NOT_AVAILABLE": "👩‍🦰Amazone chat bot Disabled."
+            "NOT_AVAILABLE": "♦️Amazone chat bot Disabled."
         },
         "covid": {
             "COV_DESC": "කොවිඩ් වාර්තා ලබා දෙයි.",
