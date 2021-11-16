@@ -51,8 +51,8 @@ const Lang = Language.getString('system_stats');
         if (Config.ALIVEMSG == 'default') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
-       
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "\n\n*🐶Amazone DUG*\n*💫🧚‍♀️Hey There Im Alive Now*\n\n*◉Version :► 2.1.0 (Public Release)*\n*◉Branch  :► Awsh*\n*◉About :► Amazone DUG Is a Powerfull Bot For Whatsapp.*\n*◯●Github Link :►\n\n*💫©Join Our Group*\n*▷📑News & Update Report*\n _◈https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5y8_\n*▷⚡Official Pluggins Group* \n _◈https://chat.whatsapp.com/JJ2iwfF0VL3IWrIyr7AT_\n*🛡️Support Community*\n"})
+      
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "\n\n*🐶Amazone DUG*\n*✨💟Hey There Im Alive Now*\n\n*◉Version :► 2.1.0 (Public Release)*\n*◎Mod :► Fast*\n*◉About :► Amazone DUG Is a Powerfull Bot For Whatsapp.*\n\n╰──────────╯\n"})
 
     }
     else {
