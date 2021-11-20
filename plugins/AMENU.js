@@ -103,12 +103,12 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╭────────────●●►
  *│🔍SEARCH COMMANDS*
  │     ──────────
- │► .yt [ topic ]
- │► .wiki [text ]
- │► .movie [ movie name ]
- │► .github [ name ]
- │► .show [tv series ]
- │► .weather [ city ]
+ │🎌 .yt [ topic ]
+ │🎌 .wiki [text ]
+ │🎌 .movie [ movie name ]
+ │🎌 .github [ name ]
+ │🎌 .show [tv series ]
+ │🎌 .weather [ city ]
  │
  ╰────────────●●►
 
