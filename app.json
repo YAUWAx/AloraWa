@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "🐶©Amazone Dug"
+            "value": "⛄ᴬᴸᴼᴿᴬ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀ⛄"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -39,12 +39,12 @@
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*🐶Downloading Your Song◉*"
+            "value": "*▼🎻𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚂𝙾𝙽𝙶"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦🐶Uploading Your Song✿◉*"
+            "value": "*▲🎻𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚂𝙾𝙽𝙶"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 🐶Amazone Dug"
+            "value": "𝙼𝙰𝙳𝙴 𝙱𝚈 𝙰𝙻𝙾𝚁𝙰 𝚆𝙰⛄🎻"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/sRtZPP6/Dug-up.jpg"
+            "value": "https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg"
         },
         "WELCOME_GIF": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
@@ -236,7 +236,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🐶ᴀᴍᴀᴢᴏɴᴇ dug ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "🐶ᴀᴍᴀᴢᴏɴᴇ dug ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️𝚈𝙰𝚄𝚆𝙰 Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🎻!!"
         }
     },
     "addons": [{
