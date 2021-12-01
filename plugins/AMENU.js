@@ -193,11 +193,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │ ▷CAPTION: <text> [change caption]
  │ ▷MENUINFO: <text> [change Menu info]
  │ ▷SUDO: <number> [add sudo]
- │    
- │    THANK FOR
- │     USING
- │ AMAZONE DUG ✉️
- │©️ᴅᴜɢ-x
+ │
+ │  [𝚃𝚎𝚎𝚗𝚞 𝚡 𝚈𝙰𝚄𝚆𝙰]  
  ╰───────────●●►
  
 `}) 
